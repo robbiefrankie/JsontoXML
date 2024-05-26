@@ -1,1 +1,1 @@
-This is just a documentation file.
+This is just a documentation document.
