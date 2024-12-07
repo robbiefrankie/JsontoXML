@@ -1,3 +1,3 @@
 # JsontoXML
-Json-to-XML Project Doc
+Json-to-XML Project Document
 This Repo contains source code which changes Json to XML.
