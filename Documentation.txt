@@ -1,1 +1,1 @@
-This is just a documentation document for test purpose.
+This is just a document for test purpose.
